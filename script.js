@@ -277,7 +277,7 @@ const questions = [
     },
     {
         image: "https://i.postimg.cc/x8p3GsRj/IMG-2538.jpg",
-        text: "A morning routine I like to do first",
+        text: "A morning routine I like to do first(except you)",
         choices: [
             { type: "text", content: "Read yuri" },
             { type: "text", content: "Excercise" },
@@ -288,7 +288,7 @@ const questions = [
     },
     {
         image: "https://i.makeagif.com/media/2-13-2025/N3lQmo.gif",
-        text: "What's my biggest weakness(again, except u)",
+        text: "What's my biggest weakness(again, except u heh)",
         choices: [
             { type: "text", content: "Someone raising their voice at me" },
             { type: "text", content: "Holes(trypophobia shit)" },
